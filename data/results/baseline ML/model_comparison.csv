@@ -1,0 +1,5 @@
+,MAE,RMSE,R²_Test,R²_Train,MAPE_%
+Gradient Boosting,1.2233,4.8868,0.956,0.9981,15.6989
+Hist Gradient Boosting,1.4543,5.9989,0.9336,0.9942,18.2825
+Random Forest,1.744,8.2693,0.8739,0.9295,12.1795
+Ridge Regression,7.1092,17.6603,0.4248,0.6578,96.8423

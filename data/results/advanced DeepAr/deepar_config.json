@@ -1,0 +1,25 @@
+{
+  "prediction_length": 7,
+  "context_length": 24,
+  "min_history_months": 18,
+  "epochs": 150,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "num_layers": 2,
+  "hidden_size": 64,
+  "dropout": 0.1,
+  "device": "cuda",
+  "num_deepar_products": 185,
+  "num_fallback_products": 312,
+  "num_categories": 8,
+  "category_map": {
+    "Beauty & Fashion": 0,
+    "Electronics": 1,
+    "Home & Living": 2,
+    "Organizers": 3,
+    "Stationery": 4,
+    "Toys": 5,
+    "Travel": 6,
+    "Wallets & Cases": 7
+  }
+}
